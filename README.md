@@ -1,2 +1,13 @@
-# M1-MachineLearning
-Introduction to Machine Learning(Prof. Je-Hyuk Lee), Department of Data Science, General Graduate School, KMU
+# Introduction to Machine Learning
+
+- Prof. Je-Hyuk Lee
+
+- 1st Semester, Fall Semester 2023
+
+</br>
+
+## Concept
+
+</br>
+
+## Essay
