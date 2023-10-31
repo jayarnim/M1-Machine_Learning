@@ -10,4 +10,6 @@
 
 </br>
 
-## Essay
+## Project
+
+- [Comparative Analysis of Changes in Influence of Market Demand Determinants](https://github.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants)
