@@ -8,6 +8,48 @@
 
 ## Concept
 
+### Intro.
+
+- [What? Data Science](https://velog.io/@jayarnim/What-Data-Science)
+
+- [Data Preprocessing](https://velog.io/@jayarnim/Data-Preprocessing)
+
+### Supervised Learning
+
+- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection)
+
+- [Decision Tree]()
+
+- [Naive Bayes]()
+
+- [k-NN]()
+
+- [Support Vector Machine]()
+
+- [Linear Regression]()
+
+- [Logistic Regression]()
+
+- [Non-Linear Regression]()
+
+### Unsupervised Learning
+
+- [SVD]()
+
+- [t-SNE]()
+
+- [k-Means]()
+
+- [Hierarchical Clustering]()
+
+- [DBSCAN]()
+
+### Ensemble
+
+- [Bagging]()
+
+- [Boosting]()
+
 </br>
 
 ## Project
