@@ -16,39 +16,41 @@
 
 ### Supervised Learning
 
-- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection)
+- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) / [[CODE]]()
 
-- [Decision Tree]()
+- [Decision Tree]() / [[CODE]]()
 
-- [Naive Bayes]()
+- [Naive Bayes]() / [[CODE]]()
 
-- [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors)
+- [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors) / [[CODE]]()
 
-- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine)
+- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[CODE]]()
 
-- [Linear Regression]()
+- [Linear Regression]() / [[CODE]]()
 
-- [Logistic Regression]()
+- [Logistic Regression]() / [[CODE]]()
 
-- [Non-Linear Regression]()
+- [Non-Linear Regression]() / [[CODE]]()
 
 ### Unsupervised Learning
 
-- [SVD]()
+- [SVD]() / [[CODE]]()
 
-- [t-SNE]()
+- [t-SNE]() / [[CODE]]()
 
-- [k-Means]()
+- [k-Means]() / [[CODE]]()
 
-- [Hierarchical Clustering]()
+- [Hierarchical Clustering]() / [[CODE]]()
 
-- [DBSCAN]()
+- [DBSCAN]() / [[CODE]]()
 
 ### Ensemble
 
-- [Bagging]()
+- [Ensemble]()
 
-- [Boosting]()
+- [Bagging]() / [[CODE]]()
+
+- [Boosting]() / [[CODE]]()
 
 </br>
 
