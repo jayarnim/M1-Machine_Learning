@@ -22,9 +22,9 @@
 
 - [Naive Bayes]()
 
-- [k-NN]()
+- [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors)
 
-- [Support Vector Machine]()
+- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine)
 
 - [Linear Regression]()
 
