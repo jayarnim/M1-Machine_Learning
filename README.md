@@ -46,7 +46,7 @@
 
 ### Ensemble
 
-- [Ensemble]()
+- [Ensemble]() / [[CODE]]()
 
 - [Bagging]() / [[CODE]]()
 
