@@ -12,7 +12,7 @@
 
 - [What? Data Science](https://velog.io/@jayarnim/What-Data-Science)
 
-- [Data Preprocessing](https://velog.io/@jayarnim/Data-Preprocessing)
+- [Data Preprocessing](https://velog.io/@jayarnim/Data-Preprocessing) / [[CODE]]()
 
 ### Supervised Learning
 
@@ -20,7 +20,7 @@
 
 - [Decision Tree]() / [[CODE]]()
 
-- [Naive Bayes]() / [[CODE]]()
+- [Naive Bayes](https://velog.io/@jayarnim/Naive-Bayes) / [[CODE]]()
 
 - [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors) / [[CODE]]()
 
