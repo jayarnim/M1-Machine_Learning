@@ -18,7 +18,7 @@
 
 - [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) / [[CODE]]()
 
-- [Decision Tree]() / [[CODE]]()
+- [Decision Tree](https://velog.io/@jayarnim/Decision-Tree) / [[CODE]]()
 
 - [Naive Bayes](https://velog.io/@jayarnim/Naive-Bayes) / [[CODE]]()
 
