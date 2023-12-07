@@ -26,11 +26,15 @@
 
 - [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[CODE]]()
 
-- [Linear Regression]() / [[CODE]]()
+- [Linear Regression](https://velog.io/@jayarnim/Regression-1-Linear-Regression) / [[CODE]]()
 
-- [Logistic Regression]() / [[CODE]]()
+- [Gradient Descent](https://velog.io/@jayarnim/Regression-2-Gradient-Descent) / [[CODE]]()
 
-- [Non-Linear Regression]() / [[CODE]]()
+- [Regulation](https://velog.io/@jayarnim/Regression-3-Regulation) / [[CODE]]()
+
+- [Logistic Regression](https://velog.io/@jayarnim/Regression-4-Logistic-Regression) / [[CODE]]()
+
+- [Non-Linear Regression](https://velog.io/@jayarnim/Regression-5-Non-Linear-Regression) / [[CODE]]()
 
 ### Unsupervised Learning
 
