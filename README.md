@@ -16,15 +16,15 @@
 
 ### Supervised Learning
 
-- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) / [[CODE]]()
+- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) / [[Classification Metrics]]() / [[Regression Metrics]]() / [[Split]]()
 
-- [Decision Tree](https://velog.io/@jayarnim/Decision-Tree) / [[CODE]]()
+- [Decision Tree](https://velog.io/@jayarnim/Decision-Tree) / [[Classification]]() / [[Regression]]()
 
 - [Naive Bayes](https://velog.io/@jayarnim/Naive-Bayes) / [[CODE]]()
 
 - [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors) / [[CODE]]()
 
-- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[CODE]]()
+- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[Classification]]() / [[Regression]]()
 
 - [Linear Regression](https://velog.io/@jayarnim/Regression-1-Linear-Regression) / [[CODE]]()
 
@@ -34,19 +34,21 @@
 
 - [Logistic Regression](https://velog.io/@jayarnim/Regression-4-Logistic-Regression) / [[CODE]]()
 
-- [Non-Linear Regression](https://velog.io/@jayarnim/Regression-5-Non-Linear-Regression) / [[CODE]]()
-
 ### Unsupervised Learning
 
-- [SVD]() / [[CODE]]()
+- [Curse of Dimensionality](https://velog.io/@jayarnim/Curse-of-Dimensionality)
 
-- [t-SNE]() / [[CODE]]()
+- [PCA, LDA](https://velog.io/@jayarnim/PCA-LDA) / [[CODE]]()
 
-- [k-Means]() / [[CODE]]()
+- [t-SNE](https://velog.io/@jayarnim/t-SNE) / [[CODE]]()
+
+- [What? Cluster Analysis](https://velog.io/@jayarnim/What-Cluster-Analysis) / [[CODE]]()
+
+- [k-Means](https://velog.io/@jayarnim/k-Means) / [[CODE]]()
+
+- [DBSCAN](https://velog.io/@jayarnim/DBSCAN) / [[CODE]]()
 
 - [Hierarchical Clustering]() / [[CODE]]()
-
-- [DBSCAN]() / [[CODE]]()
 
 ### Ensemble
 
