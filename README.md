@@ -16,15 +16,15 @@
 
 ### Supervised Learning
 
-- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) / [[Classification Metrics]]() / [[Regression Metrics]]() / [[Split]]()
+- [Supervised Model Selection](https://velog.io/@jayarnim/Supervised-Model-Selection) [[Classification Metrics]]() [[Regression Metrics]]() [[Split]]()
 
-- [Decision Tree](https://velog.io/@jayarnim/Decision-Tree) / [[Classification]]() / [[Regression]]()
+- [Decision Tree](https://velog.io/@jayarnim/Decision-Tree) / [[Classification]]() [[Regression]]()
 
 - [Naive Bayes](https://velog.io/@jayarnim/Naive-Bayes) / [[CODE]]()
 
 - [k-Nearest Neighbors](https://velog.io/@jayarnim/k-Nearest-Neighbors) / [[CODE]]()
 
-- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[Classification]]() / [[Regression]]()
+- [Support Vector Machine](https://velog.io/@jayarnim/Support-Vector-Machine) / [[Classification]]() [[Regression]]()
 
 - [Linear Regression](https://velog.io/@jayarnim/Regression-1-Linear-Regression) / [[CODE]]()
 
@@ -48,7 +48,7 @@
 
 - [DBSCAN](https://velog.io/@jayarnim/DBSCAN) / [[CODE]]()
 
-- [Hierarchical Clustering]() / [[CODE]]()
+- [Hierarchical Clustering](https://velog.io/@jayarnim/Hierarchical-Clustering) / [[CODE]]()
 
 ### Ensemble
 
