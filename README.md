@@ -9,12 +9,21 @@
 ## Practice
 
 - Data Preprocessing
+
 - Supervised Model Selection
+
 - Decision Tree
+
 - Naive Bayes
+
 - k-Nearest Neighbors
+
 - Support Vector Machine
+
 - Regression
+
 - Curse of Dimensionality
+
 - Clustering
+
 - Ensemble
